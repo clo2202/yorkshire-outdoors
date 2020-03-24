@@ -73,7 +73,7 @@ header a:hover{
 /* Showcase - need to find a longer image - long*/ 
 #showcase{
   min-height: 400px;  
-  background: url('../Img/yorkshirelandscape2.jpg') no-repeat;
+  background: url('../img/yorkshirelandscape2.jpg') no-repeat;
   text-align: center;
   color: black;
 }
